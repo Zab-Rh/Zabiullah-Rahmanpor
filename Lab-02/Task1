@@ -1,0 +1,10 @@
+<?php 
+//Zabiullah Rahmanpor
+
+// Task1
+// In php we use const when we want to define a value that should not change during the execution of program.
+class Library {
+    const MAX_BOOKS =3;
+}
+echo Library::MAX_BOOKS ."<br>";
+?>
